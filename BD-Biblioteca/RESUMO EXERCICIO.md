@@ -83,7 +83,7 @@ Registra as transações de empréstimos feitas pelos clientes.
 
 ## **Análises Sugeridas para o Banco de Dados `biblioteca`**
 
-A seguir, estão algumas análises que podem ser feitas com esse banco:
+A seguir, estão algumas análises que foram feitas com esse banco:
 
 ### 📚 Livros e Autores
 
