@@ -120,4 +120,4 @@ A seguir, estão algumas análises que foram feitas com esse banco:
 ---
 
 > **⚠️ Observação:**
-> Os exercícios e análises foram sugeridos com base na estrutura acima e nas tabelas reais do projeto `biblioteca`. Pequenas diferenças podem surgir dependendo das implementações feitas no banco real.
+> Os exercícios e análises foram sugeridos por uma IA com base na estrutura acima e nas tabelas reais do projeto `biblioteca`. Pequenas diferenças podem surgir dependendo das implementações feitas no banco real. Caso seja uma mudança grande, será atualizado aqui!
