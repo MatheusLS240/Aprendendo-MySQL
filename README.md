@@ -29,10 +29,8 @@ Repositório criado para organizar meus estudos e práticas com **MySQL**. Aqui 
 
 ## 🖥️ Ferramentas
 
-- [MySQL Server](https://dev.mysql.com/downloads/mysql/)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - VS Code com extensão SQL
-- Docker (quando bate a preguiça de instalar tudo)
 
 ---
 
